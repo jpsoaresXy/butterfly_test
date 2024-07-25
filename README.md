@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🦋 Butterfly 3D Animation 🌪️
 
-## Getting Started
+Welcome to the **Butterfly 3D Animation (Thinking...??)** project! This project features an interactive 3D animation of a beautiful blue butterfly that you can control with the scroll of your mouse.
 
-First, run the development server:
+## Why?
+The blue butterfly appears in one of my favorite games, **Life is Strange**. Life is strange, and Max returns now as **Life is Strange: Double Exposure**, and I'm inspired by it. Although I'm not an artist, I decided to experiment with some technologies and try to create art through coding. 🌟
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Interactive Animation**: Control the flight of the butterfly by scrolling.
+- **High-Quality Model**: The butterfly is rendered with stunning detail.
+- **Smooth Controls**: Experience smooth and responsive scrolling animations.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📚 Description
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project utilizes **React Three Fiber** and **Three.js** to create a 3D animation of a butterfly 🦋. As you scroll through the page, the butterfly flaps its wings and flies around, creating an immersive experience.
 
-## Learn More
+"This action will have consequences..." 🌪️
 
-To learn more about Next.js, take a look at the following resources:
+Remember, every scroll you make affects the butterfly's flight.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **React Three Fiber**: A React renderer for Three.js.
+- **Three.js**: A 3D library that makes WebGL simpler.
+- **React Three Drei**: Useful helpers for working with Three.js in React.
 
-## Deploy on Vercel
+## 🌱 Project Status
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is just beginning. My goal is to create something cool and artistic while testing these 3D manipulation technologies.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 Links
+
+- **[Linkedin](https://www.linkedin.com/in/jp-soares/)**
+
+Thank you for checking out the project! Enjoy the flight 🦋🌪️!
